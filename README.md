@@ -1,0 +1,1 @@
+This project is the first test of my HTML skills since starting The Odin Project. The project is a website containing multiple recipes. The project should demonstrate basic knowledge of the uses of HTML elements and their attributes.
