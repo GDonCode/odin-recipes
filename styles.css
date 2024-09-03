@@ -1,0 +1,38 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #FFFDD0;
+    font-size: 18px;
+}
+* {
+    box-sizing: inherit;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+.recipetitle {
+    text-align: center;
+}
+.heading {
+    color: yellow;
+    margin-left: 10px;
+    border: 1px solid yellow;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 10px;
+    background-color: black;
+}
+.heading.sub {
+    margin-left: 25px;
+}
+li {
+    margin: 8px 0;
+}
+p {
+    margin-left: 25px;
+}
+.header {
+    text-align: center;
+}
